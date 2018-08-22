@@ -1,5 +1,5 @@
 # 深度学习的世界
-
+[Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)
 ## 模型
 
 ### 卷积神经网络(Convolutional Networks)
